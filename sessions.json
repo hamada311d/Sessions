@@ -6,6 +6,7 @@
     "end_time": "2025-07-28T14:00:00.000+03:00",
     "duration_mins": 30,
     "focus_level": "—",
+    "focus_type": "—",
     "notes": "تشستبينم",
     "mood": [
       "😔 زهقان",
@@ -17,6 +18,7 @@
     ],
     "center": "—",
     "level": "—",
-    "status": "—"
+    "status": "—",
+    "how_are_you": "—"
   }
 ]
